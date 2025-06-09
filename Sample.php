@@ -1,5 +1,3 @@
 <?php
-fgfgfgfgfgfgfggf
-
-
+print("Hello GitHub");
 ?>
